@@ -1,4 +1,4 @@
-# Weather App - Python GUI Application
+# 🌦️ Weather App - Python GUI Application
 ### Description:
 This is a Python-based Weather Application with a sleek graphical user interface (GUI) built using PyQt5. The app fetches real-time weather data using the OpenWeatherMap API and provides:
 
@@ -34,6 +34,5 @@ api_key = "your_api_key_here"
 ```
 Run the application:
 ```bash
-Copy code
 python weather_app.py
 ```
