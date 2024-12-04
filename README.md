@@ -15,16 +15,18 @@ Handles HTTP errors (e.g., invalid city, API issues) with user-friendly messages
 Handles network issues like timeouts or connection errors.
 
 ### Requirements:
-Python 3.x
-PyQt5
-Requests library
+- [Python 3.x]
+- [PyQt5]
+- [Requests library]
 ### Setup:
 Clone the repository:
+
 ```http
 bash
 Copy code
 git clone https://github.com/your-username/weather-app.git
 ```
+
 Install dependencies:
 ```http
 bash
