@@ -26,17 +26,20 @@ Copy code
 git clone https://github.com/your-username/weather-app.git
 
 Install dependencies:
+```http
 bash
 Copy code
-```http
 pip install PyQt5 requests
+```
 Get an API key from OpenWeatherMap and replace the api_key variable in the code:
+```http
 python
 Copy code
-```http
 api_key = "your_api_key_here"
+```
 Run the application:
 ```http
 bash
 Copy code
 python weather_app.py
+```
