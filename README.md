@@ -37,8 +37,12 @@ Run the application:
 python weather_app.py
 ```
 ### Screenshots:
-
-![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png) | ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222719.png) | ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222535.png)
+<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png" width="400" height="300" />
+ ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222719.png) 
+ ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222535.png)
 ### Some Error Screenshots
 
-![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Error-message/Screenshot%202024-12-04%20222751.png) | ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Error-message/Screenshot%202024-12-04%20222900.png) | ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Error-message/Screenshot%202024-12-04%20222934.png)
+![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Error-message/Screenshot%202024-12-04%20222751.png)
+![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Error-message/Screenshot%202024-12-04%20222900.png)
+<br><br>
+![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Error-message/Screenshot%202024-12-04%20222934.png)
