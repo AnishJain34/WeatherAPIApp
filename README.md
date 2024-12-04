@@ -18,13 +18,13 @@ Handles network issues like timeouts or connection errors.
 Python 3.x
 PyQt5
 Requests library
-Setup:
+### Setup:
 Clone the repository:
+```http
 bash
 Copy code
-```http
 git clone https://github.com/your-username/weather-app.git
-
+```
 Install dependencies:
 ```http
 bash
