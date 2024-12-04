@@ -37,9 +37,9 @@ Run the application:
 python weather_app.py
 ```
 ### Screenshots:
-<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png" width="300" height="350" />
-<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222719.png" width="300" height="350" />
-<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222535.png" width="300" height="350" />
+<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png" width="300" height="350" style="display:inline-block;" />
+<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222719.png" width="300" height="350" style="display:inline-block;" />
+<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222535.png" width="300" height="350" style="display:inline-block;"/>
 
 
 ### Some Error Screenshots
