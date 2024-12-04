@@ -15,9 +15,9 @@ Handles HTTP errors (e.g., invalid city, API issues) with user-friendly messages
 Handles network issues like timeouts or connection errors.
 
 ### Requirements:
-- [Python 3.x]
-- [PyQt5]
-- [Requests library]
+- Python 3.x
+- PyQt5
+- Requests library
 ### Setup:
 Clone the repository:
 
@@ -26,17 +26,12 @@ bash
 Copy code
 git clone https://github.com/your-username/weather-app.git
 ```
-
 Install dependencies:
 ```http
-bash
-Copy code
 pip install PyQt5 requests
 ```
 Get an API key from OpenWeatherMap and replace the api_key variable in the code:
 ```http
-python
-Copy code
 api_key = "your_api_key_here"
 ```
 Run the application:
