@@ -36,3 +36,5 @@ Run the application:
 ```bash
 python weather_app.py
 ```
+### Screenshots:
+![Alt Text](Images/Weather-Images/Screenshot 2024-12-04 222257.png)
