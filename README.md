@@ -37,7 +37,7 @@ Run the application:
 python weather_app.py
 ```
 ### Screenshots:
-<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png" width="400" height="500" />
+<img src="https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png" width="200" height="250" />
 
  ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222719.png) 
  ![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222535.png)
