@@ -21,22 +21,19 @@ Handles network issues like timeouts or connection errors.
 ### Setup:
 Clone the repository:
 
-```http
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/weather-app.git
 ```
 Install dependencies:
-```http
+```bash
 pip install PyQt5 requests
 ```
 Get an API key from OpenWeatherMap and replace the api_key variable in the code:
-```http
+```bash
 api_key = "your_api_key_here"
 ```
 Run the application:
-```http
-bash
+```bash
 Copy code
 python weather_app.py
 ```
