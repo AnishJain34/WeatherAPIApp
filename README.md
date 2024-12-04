@@ -37,4 +37,5 @@ Run the application:
 python weather_app.py
 ```
 ### Screenshots:
-![Alt Text](Images/Weather-Images/Screenshot 2024-12-04 222257.png)
+
+![Alt Text](https://github.com/AnishJain34/WeatherAPIApp/blob/main/Images/Weather-Images/Screenshot%202024-12-04%20222257.png)
